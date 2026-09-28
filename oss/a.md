@@ -1,1 +1,2 @@
-hanyang
+erica
+department of AI
